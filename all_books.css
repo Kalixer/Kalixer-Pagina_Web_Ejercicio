@@ -15,7 +15,7 @@ html {
 
 nav {
     width: 100vw;
-    height: 10vh;
+    height: 13vh;
     background-color: red;
     border: .3rem black solid;
 }
@@ -46,7 +46,7 @@ nav h1 {
 
 .categoria {
     width: 18vw;
-    height: 90vh;
+    height: 87vh;
     min-width: 22rem;
     background-color: blue;
     border-right: .3rem black solid;
@@ -75,7 +75,7 @@ nav h1 {
 }
 .contenido {
     width: 82vw;
-    height: 90vh;
+    height: 87vh;
     background-color: cyan;
     border-right: .3rem black solid;
     display: flex;
@@ -86,7 +86,6 @@ nav h1 {
 .box {
     width: 17rem;
     height: 25rem;
-    margin: 1rem;
     border-radius: 1.7rem;
     border: .5rem black solid;
     background-color: purple;
@@ -99,41 +98,9 @@ nav h1 {
     width: 100%;
     height: auto;
 }
-
-/* .box6 {
+.box6 {
     display: flex;
     text-align: center;
     justify-content: center;
     padding-top: 3rem;
 }
-*/
-
-
-/*
-Libros que añadir
-
-Little Brother
-I Robot
-Haz click aquí
-Ender's Game
-
-
-Pending:
-Homeland
-Surface Attack
-Anne of green Gabels
-Foundation Trilogy
-Speaker for the dead
-
-
-
-Finished:
-Divergent's Saga
-
-
-
-
-
-
-
-
